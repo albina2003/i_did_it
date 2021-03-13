@@ -1,0 +1,22 @@
+{
+  "name": "node_end-term",
+  "version": "1.0.0",
+  "description": "Node JS assignment for end-term",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "\"Albina Makhanova <albi.mahan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
